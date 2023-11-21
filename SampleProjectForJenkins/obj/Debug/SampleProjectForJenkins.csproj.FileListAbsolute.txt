@@ -1,0 +1,7 @@
+C:\pooja sutar\SampleProjectForJenkins\SampleProjectForJenkins\bin\Debug\SampleProjectForJenkins.exe.config
+C:\pooja sutar\SampleProjectForJenkins\SampleProjectForJenkins\bin\Debug\SampleProjectForJenkins.exe
+C:\pooja sutar\SampleProjectForJenkins\SampleProjectForJenkins\bin\Debug\SampleProjectForJenkins.pdb
+C:\pooja sutar\SampleProjectForJenkins\SampleProjectForJenkins\obj\Debug\SampleProjectForJenkins.csproj.AssemblyReference.cache
+C:\pooja sutar\SampleProjectForJenkins\SampleProjectForJenkins\obj\Debug\SampleProjectForJenkins.csproj.CoreCompileInputs.cache
+C:\pooja sutar\SampleProjectForJenkins\SampleProjectForJenkins\obj\Debug\SampleProjectForJenkins.exe
+C:\pooja sutar\SampleProjectForJenkins\SampleProjectForJenkins\obj\Debug\SampleProjectForJenkins.pdb
