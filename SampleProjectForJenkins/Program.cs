@@ -10,6 +10,7 @@ namespace SampleProjectForJenkins
     {
         public void Addition()
         {
+            int x, y, z;
             int a = 10, b = 20, c;
             c = a + b;
             Console.WriteLine("Addition=" + c);
